@@ -7,6 +7,7 @@ import { letters } from "../constants/cubeLetters";
 import { directionVectors } from "./../constants/directions";
 import { surface_size } from "./../constants/SceneConstants";
 
+
 // Функция для генерации случайного цвета в формате HEX
 const getRandomColor = () => {
   const letters = "0123456789ABCDEF";
